@@ -1,0 +1,8 @@
+Authentication is the process of verifying a user's identity to prove that they are who they say they are..
+
+Authorization or authorisation is the function of specifying rights/privileges for accessing resources, which is related to general information security and computer security, 
+$2b$10$0/hX8W6Wz8dWtWrmbWhX2OHRYlQUDGJzylcroxhQj/cXWH4KGrqeK
+
+jwt combine with three part
+
+---header---payload--verify signature
